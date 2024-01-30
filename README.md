@@ -2,4 +2,4 @@
 
 You can find me here:
 
-[Slack](thecodechef.slack.com)
+[Slack](https://thecodechef.slack.com)
